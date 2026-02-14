@@ -45,7 +45,7 @@ docker-compose up -d
 
 ## 📸 Capturas de Pantalla (Demo)
 
-_(Aquí puedes agregar capturas de pantalla de la interacción del bot si tienes)_
+
 
 ---
 
