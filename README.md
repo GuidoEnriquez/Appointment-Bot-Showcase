@@ -30,7 +30,6 @@ Un completo panel web moderno vinculado a Supabase (PostgreSQL) para controlar a
 
 ## 🚀 Instalación y Despliegue
 
-> **[INFO SAAS]:** Si deseas desplegar este bot en un servidor de Producción (Nube) para comercializarlo a nuevos clientes, por favor lee el manual avanzado: [Manual de Despliegue SaaS (README_SAAS.md)](README_SAAS.md). Las instrucciones a continuación son para entorno de desarrollo local.
 
 ### 🔙 Configuración del Bot (Backend)
 
