@@ -8,7 +8,7 @@ Este proyecto es un sistema dual e inteligente para la gestión de turnos ("SaaS
 
 - **Menú Interactivo sin Texto Libre:** Usa encuestas nativas de WhatsApp para ofrecer opciones claras (Pedir Turno, Mis Turnos, Contacto).
 - **Flujo Multi-Médico:** El paciente selecciona qué especialidad necesita y a qué especialista desea ver (si hay más de uno).
-- **Control Inteligente de Agenda:** Conoce exactamente el horario base del doctor seleccionado, horas de almuerzo, turnos pre-reservados de otros pacientes y salta automáticamente los "Días Bloqueados" (Feriados y vacaciones).
+- **Control Inteligente de Agenda:** Conoce exactamente el horario base del doctor seleccionado, horas de descanso, turnos pre-reservados de otros pacientes y salta automáticamente los "Días Bloqueados" (Feriados y vacaciones).
 - **Stateful Memoria Temporal:** Recuerda la conversación del paciente durante 10 minutos (estado `WAITING_DNI` o `DATE_SELECTION`) evitando confusión.
 - **Auto-cancelación Segura:** Los pacientes pueden ver una lista de sus propios turnos pendientes y cancelarlos sin intervención humana.
 
